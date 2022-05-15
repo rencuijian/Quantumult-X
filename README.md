@@ -1,8 +1,11 @@
 # Quantumult X个人理解使用教程
+# 大佬链接
+
+
 # Quantumult X参数
-KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
-F大的wiki策略组理解：https://github.com/Fndroid/jsbox_script/wiki/关于策略组的理解
-图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
+* KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
+* F大的wiki策略组理解：https://github.com/Fndroid/jsbox_script/wiki/关于策略组的理解
+* 图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
 
 # 大佬教学
 不完全教学Shawn：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
