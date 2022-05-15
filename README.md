@@ -1,18 +1,14 @@
-# 个人自用整理
-Quantumult X策略、规则、脚本使用教程
+# Quantumult X个人理解使用教程
+# Quantumult X参数
+KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
+F大的wiki策略组理解：https://github.com/Fndroid/jsbox_script/wiki/关于策略组的理解
+图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
 
-Quantumu X文档
-; “;” “#”为注释符号，去掉此类符号，该行才会生效。
-; Quantumu X KOP-XIAO各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
-; F大的wiki策略组理解：https://github.com/Fndroid/jsbox_script/wiki/关于策略组的理解
-; 图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
-; 引用神机, blackmatrix7和lhie1重写规则, KOP-XIAO的geo-checker js脚本, ip-api数据库, Mazeorz整合的网易云音乐解锁, GeQ1an部分去广告规则
-
-; 大佬教学↓
-; 不完全教学Shawn：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
-; 漫游小镇：https://yattazen.com/
-; 毒奶：https://limbopro.com/archives/3846.html
-; 万事屋：https://merlinblog.xyz/wiki/rules.html
+# 大佬教学
+不完全教学Shawn：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
+漫游小镇：https://yattazen.com/
+毒奶：https://limbopro.com/archives/3846.html
+万事屋：https://merlinblog.xyz/wiki/rules.html
 
 ; 各大佬的github-首页正文感谢链接：https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
 ; blackmatrix7脚本https://github.com/blackmatrix7/ios_rule_script
