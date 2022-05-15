@@ -1,4 +1,4 @@
-# Quantumult X个人理解使用教程
+# Quantumult X个人查找使用教程
 # 大佬链接
 [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机](https://github.com/DivineEngine/Profiles/tree/master)、
 
@@ -8,12 +8,12 @@
 * 图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
 
 # 大佬教学
-不完全教学Shawn：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
-漫游小镇：https://yattazen.com/
-毒奶：https://limbopro.com/archives/3846.html
-万事屋：https://merlinblog.xyz/wiki/rules.html
+- 不完全教学Shawn：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
+- 漫游小镇：https://yattazen.com/
+- 毒奶：https://limbopro.com/archives/3846.html
+- 万事屋：https://merlinblog.xyz/wiki/rules.html
 
-; 各大佬的github-首页正文感谢链接：https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
+各大佬的github-首页正文感谢链接：https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
 ; blackmatrix7脚本https://github.com/blackmatrix7/ios_rule_script
 ; chavyleung-js脚本https://github.com/chavyleung
 ; NobyDa-JS脚本https://github.com/NobyDa/Script
