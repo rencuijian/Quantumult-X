@@ -1,7 +1,7 @@
 # Quantumult X个人查找使用教程
 # 大佬链接
 [blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、
-
+[chavyleung的JS安装](https://github.com/chavyleung/boxjs-doc)、[LGTMXD神机规则备份](https://github.com/LGTMXD/Profiles-1)、[lhie1](https://github.com/lhie1)
 # Quantumult X参数
 * KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
 * F大的wiki策略组理解：https://github.com/Fndroid/jsbox_script/wiki/关于策略组的理解
