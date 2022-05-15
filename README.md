@@ -5,6 +5,19 @@
 * Quantumult X详细教学
   - 小白教学
   - 大佬教学
+
+* 关于策略组
+  - 策略组的个人理解
+* 关于分流  
+  - 关于分流个人理解
+* 关于重写
+  - 重写个人理解
+  
+* 关于MitM
+  -个人理解
+* 工具&分析
+  -构造HTTP请求
+* 关于去广告
 # 大佬链接
 [blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、
 [chavyleung的JS安装](https://github.com/chavyleung/boxjs-doc)、[LGTMXD神机规则备份](https://github.com/LGTMXD/Profiles-1)、[lhie1](https://github.com/lhie1)、[sve1r规则排序广告释义](https://github.com/sve1r/Rules-For-Quantumult-X)
