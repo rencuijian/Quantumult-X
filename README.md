@@ -1,6 +1,6 @@
 # Quantumult X个人查找使用教程
 # 大佬链接
-[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机](https://github.com/DivineEngine/Profiles/tree/master)、
+[blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、
 
 # Quantumult X参数
 * KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
