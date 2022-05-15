@@ -25,7 +25,8 @@ Quantumu X文档
 ; 哔哩哔哩如要看港澳台剧，配置好规则前提下，切换对应节点即可
 ; 爱奇艺要看港澳台剧，配置好规则前提下，需应用里切换地区后，再去切换节点
 
-# 规则类型优先级，在 Quantumult X 中并不是完全按顺序匹配，各类型的优先级应该为： host > host-suffix > host-keyword > user-agnet > geoip & ip-cidr。
+# 规则类型优先级
+在 Quantumult X 中并不是完全按顺序匹配，各类型的优先级应该为： host > host-suffix > host-keyword > user-agnet > geoip & ip-cidr。
 
 野比京东、爱奇艺、贴吧、哔哩哔哩漫画、快看漫画签到教程
 野比NobyDa仓库：https://github.com/NobyDa/Script/tree/master
