@@ -47,8 +47,9 @@
 ## 进阶指南
 * Shawn提供的不完全指南：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
 * 毒奶提供的详细教程：https://limbopro.com/archives/3846.html
-* 耳东橙的教程：https://github.com/erdongchanyo/Rules/blob/main/Quantumult X/README.md
 * 优质盒子教程：https://uzbox.com/tech/quanx.html?amp=1
+* 耳东橙的教程：
+  - https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
 
 # 分流规则与重写库
 * blackmatrix7的库: https://github.com/blackmatrix7/ios_rule_script
@@ -73,7 +74,7 @@
 ## 脚本 获取cookie
 * Orz3收集各博主脚本：https://github.com/Orz-3/QuantumultX/tree/master/Task
 * 野比NobyDa JS脚本：https://github.com/NobyDa/Script/tree/master
-* 锄禾的库：https://github.com/ChuheGit/1
+* 锄禾的脚本：https://github.com/ChuheGit/1
 
 ## 任务 | 订阅仓库
 *大风车->构造请求->顶部第一个图标->点击+号图标,输入订阅链接
