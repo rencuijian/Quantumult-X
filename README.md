@@ -26,10 +26,12 @@
 * F大的wiki策略组理解：https://github.com/Fndroid/jsbox_script/wiki/关于策略组的理解
 * 图标库 → Qure：https://github.com/Koolson/Qure/tree/master/IconSet 或 OrzMini：https://github.com/Orz-3/mini
 
-# 大佬教学
-- 不完全教学Shawn：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
-- 漫游小镇：https://yattazen.com/
-- 毒奶：https://limbopro.com/archives/3846.html
+# 大佬教Quantumult X使用教程
+小白指南(懒人教程)
+
+进阶指南
+* [详细带图@Shawn 提供的不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 
+* [毒奶提供详细教程](https://limbopro.com/archives/3846.html)
 - 万事屋：https://merlinblog.xyz/wiki/rules.html
 
 各大佬的github-首页正文感谢链接：https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
