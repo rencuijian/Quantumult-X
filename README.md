@@ -31,7 +31,7 @@
 * KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
 * 野比NobyDa的规则理解：https://github.com/NobyDa/Profiles
 * F大的wiki策略组理解：https://github.com/Fndroid/jsbox_script/wiki/关于策略组的理解
-* svelr转载的规则理解：https://github.com/sve1r/Rules-For-Quantumult-X/
+* svelr的规则理解：https://github.com/sve1r/Rules-For-Quantumult-X/
 * 万事屋转载规则理解：https://merlinblog.xyz/wiki/rules.html
 
 
@@ -57,11 +57,11 @@
 * Semporia分流重写JS库：https://github.com/Semporia/Quantumult-X
 
 # 图标库
-## Qure 图标库：https://github.com/Koolson/Qure
-## Mini 图标库：https://github.com/Orz-3/mini
-## shoujiqiyuan图标库：https://github.com/shoujiqiyuan/PVSZforQuanX/tree/master
-## Former-Years图标库：https://github.com/Former-Years/icon/tree/master
-## yangtingxiao图标库：https://github.com/yangtingxiao/QuantumultX/tree/master/image
+* Qure 图标库：https://github.com/Koolson/Qure
+* Mini 图标库：https://github.com/Orz-3/mini
+* shoujiqiyuan图标库：https://github.com/shoujiqiyuan/PVSZforQuanX/tree/master
+* Former-Years图标库：https://github.com/Former-Years/icon/tree/master
+* yangtingxiao图标库：https://github.com/yangtingxiao/QuantumultX/tree/master/image
 
 
 # 去广告教程规则
@@ -73,63 +73,60 @@
 ## 脚本 获取cookie
 * Orz3收集各博主脚本：https://github.com/Orz-3/QuantumultX/tree/master/Task
 * 野比NobyDa JS脚本：https://github.com/NobyDa/Script/tree/master
-*锄禾的库：https://github.com/ChuheGit/1
-* Mezzy168JS脚本：https://github.com/Mezzy168/ChuheGit
+* 锄禾的库：https://github.com/ChuheGit/1
 
-# 任务仓库
-## 订阅仓库
-## 大风车->构造请求->顶部第一个图标->点击+号图标,输入订阅链接
-* 野比NobyDa ：https://raw.githubusercontent.com/NobyDa/Script/8f882c9634896702011da3bfe1923fb2db627f8a/NobyDa_BoxJs.json
+## 任务 | 订阅仓库
+*大风车->构造请求->顶部第一个图标->点击+号图标,输入订阅链接
+*野比NobyDa ：https://raw.githubusercontent.com/NobyDa/Script/8f882c9634896702011da3bfe1923fb2db627f8a/NobyDa_BoxJs.json
 * blackmatrix7：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
-*     ChuheGit：https://dove.589669.xyz/task2qxgallery?img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule
+* ChuheGit：https://dove.589669.xyz/task2qxgallery?img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule
 * 搞鸡玩家：http://gjds.vip/QX/cangku.json
+
 # BoxJs使用方法(路径在重写列表里)PS：可用于控制Task脚本
-安装方法
-安装路径教程：https://docs.boxjs.app或https://github.com/chavyleung/boxjs-doc或https://github.com/chavyleung/scripts
-# 安装路径: 
+## 安装方法
+* 安装路径教程：https://docs.boxjs.app或https://github.com/chavyleung/boxjs-doc或https://github.com/chavyleung/scripts
+* 安装路径: 
  ​ 风车 > 重写 > 引用
-# 重写路径: 
+* 重写路径: 
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
-用法
-浏览器访问：http://boxjs.com
-boxjs技巧：https://docs.boxjs.app/base/tips
-主屏幕添加：safari点中间小箭头→主屏幕添加
-大佬电报：https://t.me/chavyscripts
-大佬chavyleung仓库：https://github.com/chavyleung
+## 使用用法
+* 浏览器访问：http://boxjs.com
+* boxjs技巧：https://docs.boxjs.app/base/tips
+* 主屏幕添加：safari点中间小箭头→主屏幕添加
+* 大佬电报：https://t.me/chavyscripts
+* 大佬chavyleung仓库：https://github.com/chavyleung
 
 # 网易云音乐
-##O7Y0的教程规则：https://github.com/O7Y0/Attached
+* O7Y0的教程规则：https://github.com/O7Y0/Attached
 
 # iPhone (免拔卡)解锁TikTok +换区+发布视频+直播+点赞评论
-## TikTok 解锁：https://github.com/Semporia/TikTok-Unlock
+* TikTok 解锁：https://github.com/Semporia/TikTok-Unlock
 
 
 
 表头|表头
 --|--
 内容|内容
-; 更新时间2022-05-13 建建哥阿
-; 哔哩哔哩和爱奇艺策略组用法
-; 哔哩哔哩如要看港澳台剧，配置好规则前提下，切换对应节点即可
-; 爱奇艺要看港澳台剧，配置好规则前提下，需应用里切换地区后，再去切换节点
+
+# 某些策略切换方法
+###### 哔哩哔哩
+* 哔哩哔哩如要看港澳台剧，配置好规则前提下，切换对应节点即可
+###### 爱奇艺
+* 爱奇艺要看港澳台剧，配置好规则前提下，需应用里切换地区后，再去切换节点
 
 # 规则类型优先级
 在 Quantumult X 中并不是完全按顺序匹配，各类型的优先级应该为： host > host-suffix > host-keyword > user-agnet > geoip & ip-cidr。
+# 测试
+## 测试
+###### 测试
+* 测试
+- 测试
+1.测试
+2.测试
+* 测试
+  - 测试
+> 第一行引用
+*** 水平线
+
 
 # 相信看了前面大佬们的教程已经对Quanmutult X有更深入的了解，可以自己去配置，不需再用小白配置
-## 以下是个人对配置路径的理解
-# general模块内为一些通用的设置参数项
-# [general]
-## QuantumultX会对server_check_url指定的网址进行相应测试，以确认节点的可用性(默认的也可修改)
-server_check_url=http://www.qualcomm.cn/generate_204
-## 配置文件路径显示头像(不清楚在哪显示)
-profile_img_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/1.PNG
-## 下列表中内容将不经过QuantumultX的处理(默认的)
-excluded_routes=10.0.0.0/8, 127.0.0.0/8, 169.254.0.0/16, 192.0.2.0/24, 192.168.0.0/16, 198.51.100.0/24, 224.0.0.0/4
-# list中的域名将不使用fake-ip方式, 多个域名用“, ”连接。其它域名则全部采用 fake-ip及远程解析的模式
-dns_exclusion_list = *.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me, *.pingan.com.cn, *.cmbchina.com, *.localnetwork.uop, mfs.ykimg.com*.ttf, *.icbc.com.cn
-# IP_bili_cn js-用于获取、展示节点信息，可完整自定义
-geo_location_checker=http://api.live.bilibili.com/ip_service/v1/ip_service/get_ip_addr? , https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/IP_bili_cn.js
-# 备用geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/Orz-3/Orz-3/master/QuantumultX/IP.js
-# 资源解析器，自定义各类远程资源的转换、如节点、规则、filter、复写、rewrite等
-resource_parser_url=https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
