@@ -46,7 +46,7 @@
 ## 进阶指南
 * [@Shawn提供的不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 
 * [@毒奶提供的详细教程](https://limbopro.com/archives/3846.html)
-* [耳东橙的教程](https://github.com/erdongchanyo/Rules/tree/main/Quantumult X)
+* [耳东橙的教程](https://github.com/erdongchanyo/Rules/tree/main/QuantumultX)
 * 优质盒子教程：https://uzbox.com/tech/quanx.html?amp=1
 
 # 分流规则与重写库
