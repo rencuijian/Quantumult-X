@@ -46,8 +46,8 @@
 
 ## 进阶指南
 * Shawn提供的不完全指南：https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917
-* 毒奶提供的详细教程：https://limbopro.com/archives/3846.html
-* 优质盒子教程：https://uzbox.com/tech/quanx.html?amp=1
+* 毒奶提供的进阶教程：https://limbopro.com/archives/3846.html
+* 优质盒子进阶教程：https://uzbox.com/tech/quanx.html?amp=1
 * 耳东橙的教程：
   - https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
 
@@ -77,18 +77,18 @@
 * 锄禾的脚本：https://github.com/ChuheGit/1
 
 ## 任务 | 订阅仓库
-*大风车->构造请求->顶部第一个图标->点击+号图标,输入订阅链接
-*野比NobyDa ：https://raw.githubusercontent.com/NobyDa/Script/8f882c9634896702011da3bfe1923fb2db627f8a/NobyDa_BoxJs.json
+* 大风车->构造请求->顶部第一个图标->点击+号图标,输入订阅链接
+* 野比NobyDa ：https://raw.githubusercontent.com/NobyDa/Script/8f882c9634896702011da3bfe1923fb2db627f8a/NobyDa_BoxJs.json
 * blackmatrix7：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
 * ChuheGit：https://dove.589669.xyz/task2qxgallery?img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule
 * 搞鸡玩家：http://gjds.vip/QX/cangku.json
 
 # BoxJs使用方法(路径在重写列表里)PS：可用于控制Task脚本
 ## 安装方法
-* 安装路径教程：https://docs.boxjs.app或https://github.com/chavyleung/boxjs-doc或https://github.com/chavyleung/scripts
+* 安装教程：https://docs.boxjs.app或https://github.com/chavyleung/boxjs-doc或https://github.com/chavyleung/scripts
 * 安装路径: 
  ​ 风车 > 重写 > 引用
-* 重写路径: 
+* 重写文件： 
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
 ## 使用用法
 * 浏览器访问：http://boxjs.com
@@ -127,7 +127,8 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 * 测试
   - 测试
 > 第一行引用
-*** 水平线
+水平线
+***
 
 
 # 相信看了前面大佬们的教程已经对Quanmutult X有更深入的了解，可以自己去配置，不需再用小白配置
