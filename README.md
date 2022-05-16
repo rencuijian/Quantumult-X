@@ -30,8 +30,8 @@
 小白指南(懒人教程)
 
 进阶指南
-* [@Shawn 提供的不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 
-* [@毒奶 提供的详细教程](https://limbopro.com/archives/3846.html)
+* [@Shawn提供的不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917) 
+* [@毒奶提供的详细教程](https://limbopro.com/archives/3846.html)
 - 万事屋：https://merlinblog.xyz/wiki/rules.html
 
 各大佬的github-首页正文感谢链接：https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
