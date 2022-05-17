@@ -1,31 +1,10 @@
 # Quantumult X个人查找使用教程
-* 随缘编辑
-# 目录
-* 关于去广告
-* Quantumult X详细教学
-  - 小白教学
-  - 大佬教学
-
-* 关于策略组
-  - 策略组的个人理解
-* 关于分流  
-  - 关于分流个人理解
-* 关于重写
-  - 重写个人理解
-  
-* 关于MitM
-  -个人理解
-* 工具&分析
-  -构造HTTP请求
-* 关于去广告
-
-
-
-
+* 油管1080P下载：https://x2mate.com/zh-cn
+* 备用720P下载：https://x2download.com/zh-cn52
 
 # 大佬链接
 [blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、[Orz-3规则配置JS](https://github.com/Orz-3/QuantumultX)、
-[chavyleung的JS安装](https://github.com/chavyleung/boxjs-doc)、[O7Y0网易云音乐](https://github.com/O7Y0/Attached)、[LGTMXD神机规则备份](https://github.com/LGTMXD/Profiles-1)、[lhie1](https://github.com/lhie1)、[sve1r规则排序广告释义](https://github.com/sve1r/Rules-For-Quantumult-X)
+[chavyleung的JS安装](https://github.com/chavyleung/boxjs-doc)、[O7Y0网易云音乐](https://github.com/O7Y0/Attached)、[LGTMXD神机规则备份](https://github.com/LGTMXD/Profiles-1)、[lhie1](https://github.com/lhie1)、[sve1r规则排序广告释义](https://github.com/sve1r/Rules-For-Quantumult-X)、[W37fhy圈XJS](https://github.com/w37fhy/QuantumultX)
 
 # Quantumult X参数
 * KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
@@ -49,13 +28,16 @@
 * 毒奶提供的进阶教程：https://limbopro.com/archives/3846.html
 * 优质盒子进阶教程：https://uzbox.com/tech/quanx.html?amp=1
 * 耳东橙的教程：
-  - https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
-
+```
+        https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
+```
 # 分流规则与重写库
 * blackmatrix7的库: https://github.com/blackmatrix7/ios_rule_script
 * 神机规则新库：https://github.com/DivineEngine/Profiles/tree/master
 * Orz3的库：https://github.com/Orz-3/QuantumultX
+* nze9314的库：https://github.com/nzw9314/QuantumultX/tree/master
 * Semporia分流重写JS库：https://github.com/Semporia/Quantumult-X
+* Hedilict转载nzw9314：https://github.com/Hedilict/QuantumultX
 
 # 图标库
 * Qure 图标库：https://github.com/Koolson/Qure
@@ -78,11 +60,12 @@
 
 ## 任务 | 订阅仓库
 * 大风车->构造请求->顶部第一个图标->点击+号图标,输入订阅链接
-* 野比NobyDa ：https://raw.githubusercontent.com/NobyDa/Script/8f882c9634896702011da3bfe1923fb2db627f8a/NobyDa_BoxJs.json
+* 野比NobyDa：https://raw.githubusercontent.com/NobyDa/Script/8f882c9634896702011da3bfe1923fb2db627f8a/NobyDa_BoxJs.json
 * blackmatrix7：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/gallery.json
-* ChuheGit：https://dove.589669.xyz/task2qxgallery?img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule
+* ChuheGit锄禾：https://dove.589669.xyz/task2qxgallery?img=1&sub=https://raw.githubusercontent.com/ChuheGit/1/main/Surge/Module/Task.sgmodule
 * 搞鸡玩家：http://gjds.vip/QX/cangku.json
-
+* W37fhy：https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_Task.json
+Faker：https://raw.githubusercontent.com/shufflewzc/faker/main/qx.json
 # BoxJs使用方法(路径在重写列表里)PS：可用于控制Task脚本
 ## 安装方法
 * 安装教程：https://docs.boxjs.app或https://github.com/chavyleung/boxjs-doc或https://github.com/chavyleung/scripts
@@ -127,7 +110,7 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 * 测试
   - 测试
 > 第一行引用
-水平线
+* 水平线
 ***
 
 
