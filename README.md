@@ -1,3 +1,6 @@
+
+![苹果](https://camo.githubusercontent.com/d162c8c3e3b4039f419db29ea2bb480b50187f1091b035961a44f5bd5e5a2de0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a51704f43676e47666237464376455672642f67697068792e676966)
+
 # Quantumult X个人查找使用教程
 * 油管1080P下载：https://x2mate.com/zh-cn
 * 备用720P下载：https://x2download.com/zh-cn52
