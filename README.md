@@ -5,7 +5,7 @@
 * 油管1080P下载：https://x2download.com/zh-cn52
 
 # 大佬链接
-[blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、[Orz-3规则配置JS](https://github.com/Orz-3/QuantumultX)、[Tartarus2014](https://github.com/Tartarus2014/QuantumultX-Script)、
+[blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、[Orz-3规则配置JS](https://github.com/Orz-3/QuantumultX)、[Tartarus2014圈X](https://github.com/Tartarus2014/QuantumultX-Script)、
 [chavyleung的JS安装](https://github.com/chavyleung/boxjs-doc)、[O7Y0网易云音乐](https://github.com/O7Y0/Attached)、[RE网易云音乐JS](https://github.com/I-am-R-E/QuantumultX)、[lhie1](https://github.com/lhie1)、[sve1r规则排序广告释义](https://github.com/sve1r/Rules-For-Quantumult-X)、[W37fhy圈XJS](https://github.com/w37fhy/QuantumultX)
 
 # Quantumult X参数
@@ -41,6 +41,8 @@
 * Tartarus2014的库：https://github.com/Tartarus2014/QuantumultX-Script
 * nzw9314的库：https://github.com/nzw9314/QuantumultX/tree/master
 * Semporia分流重写JS库：https://github.com/Semporia/Quantumult-X
+* id77分流重写JS库：https://github.com/id77/QuantumultX
+* 墨鱼手记：https://github.com/ddgksf2013/Cuttlefish
 * Hedilict转载nzw9314：https://github.com/Hedilict/QuantumultX
 
 # 图标库
