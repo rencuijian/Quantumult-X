@@ -1,8 +1,8 @@
 
-![苹果](https://camo.githubusercontent.com/d162c8c3e3b4039f419db29ea2bb480b50187f1091b035961a44f5bd5e5a2de0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a51704f43676e47666237464376455672642f67697068792e676966)![胜利](https://camo.githubusercontent.com/8e30c0ff57ba0ecf6f3ae80a950dd401c74b3caf37d2560de69cad99f50f438c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f67697068792e676966)
+![胜利](https://camo.githubusercontent.com/8e30c0ff57ba0ecf6f3ae80a950dd401c74b3caf37d2560de69cad99f50f438c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f67697068792e676966)
 # Quantumult X个人查找使用教程
 * 油管1080P下载：https://x2mate.com/zh-cn
-* 备用720P下载：https://x2download.com/zh-cn52
+* 油管1080P下载：https://x2download.com/zh-cn52
 
 # 大佬链接
 [blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、[Orz-3规则配置JS](https://github.com/Orz-3/QuantumultX)、[Tartarus2014](https://github.com/Tartarus2014/QuantumultX-Script)、
@@ -46,10 +46,8 @@
 # 图标库
 * Qure 图标库：https://github.com/Koolson/Qure
 * Mini 图标库：https://github.com/Orz-3/mini
-* shoujiqiyuan图标库：https://github.com/shoujiqiyuan/PVSZforQuanX/tree/master
+* shoujiqiyuanPVSZ图标库：https://github.com/shoujiqiyuan/PVSZforQuanX/tree/master
 * Former-Years图标库：https://github.com/Former-Years/icon/tree/master
-* yangtingxiao图标库：https://github.com/yangtingxiao/QuantumultX/tree/master/image
-
 
 # 去广告教程规则
 * 毒奶去广告github教程：https://github.com/limbopro/Adblock4limbo
@@ -87,12 +85,17 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 * 大佬chavyleung仓库：https://github.com/chavyleung
 
 # 网易云音乐
-* O7Y0的教程规则：https://github.com/O7Y0/Attached
-* 网易云音乐RE：https://github.com/I-am-R-E/QuantumultX
+## O7Y0的教程规则：https://github.com/O7Y0/Attached
+* 节点：https://raw.githubusercontent.com/O7Y0/Attached/main/UnblockNeteaseMusic/UnblockNeteaseMusic.txt
+## 网易云音乐RE：https://github.com/I-am-R-E/QuantumultX
+* 节点：https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/AgentNode/NeteaseMusicUnlock.list
+## 分流：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEaseMusic/NetEaseMusic.list
 
 # iPhone (免拔卡)解锁TikTok +换区+发布视频+直播+点赞评论
 * TikTok 解锁：https://github.com/Semporia/TikTok-Unlock
-
+* TikTok解锁2：https://github.com/cyubuchen/TikTok_Unlock
+* 抖音批量去水印：https://github.com/Johnserf-Seed/TikTokDownload
+* 抖音无水印：https://github.com/Evil0ctal/Douyin_TikTok_Download_API
 
 
 表头|表头
@@ -107,3 +110,8 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 # 规则类型优先级
 在 Quantumult X 中并不是完全按顺序匹配，各类型的优先级应该为： host > host-suffix > host-keyword > user-agnet > geoip & ip-cidr。
+
+![苹果](https://camo.githubusercontent.com/d162c8c3e3b4039f419db29ea2bb480b50187f1091b035961a44f5bd5e5a2de0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a51704f43676e47666237464376455672642f67697068792e676966)
+
+#前后图标
+https://github.com/Johnserf-Seed
