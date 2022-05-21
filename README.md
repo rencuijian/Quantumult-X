@@ -6,7 +6,7 @@
 
 # 大佬链接
 [blackmatrix7圈X](https://github.com/blackmatrix7/ios_rule_script)、[DivineEngine神机圈X](https://github.com/DivineEngine/Profiles/tree/master)、[NobyDa野比圈X和JS](https://github.com/NobyDa/Script)、[Orz-3规则配置JS](https://github.com/Orz-3/QuantumultX)、[Tartarus2014](https://github.com/Tartarus2014/QuantumultX-Script)、
-[chavyleung的JS安装](https://github.com/chavyleung/boxjs-doc)、[O7Y0网易云音乐](https://github.com/O7Y0/Attached)、[LGTMXD神机规则备份](https://github.com/LGTMXD/Profiles-1)、[lhie1](https://github.com/lhie1)、[sve1r规则排序广告释义](https://github.com/sve1r/Rules-For-Quantumult-X)、[W37fhy圈XJS](https://github.com/w37fhy/QuantumultX)
+[chavyleung的JS安装](https://github.com/chavyleung/boxjs-doc)、[O7Y0网易云音乐](https://github.com/O7Y0/Attached)、[RE网易云音乐JS](https://github.com/I-am-R-E/QuantumultX)、[lhie1](https://github.com/lhie1)、[sve1r规则排序广告释义](https://github.com/sve1r/Rules-For-Quantumult-X)、[W37fhy圈XJS](https://github.com/w37fhy/QuantumultX)
 
 # Quantumult X参数
 * KOP-XIAO的各参数说明：https://github.com/KOP-XIAO/QuantumultX/blob/master/QuantumultX_Profiles.conf
@@ -31,7 +31,7 @@
 * 优质盒子进阶教程：https://uzbox.com/tech/quanx.html?amp=1
 * 耳东橙的教程：
 ```
-        https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
+   https://github.com/erdongchanyo/Rules/tree/main/Quantumult X
 ```
 * blob完整教程：https://github.com/shigalin/Quantumult/blob/master/README.md
 # 分流规则与重写库
@@ -86,11 +86,20 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 # 网易云音乐
 ## O7Y0的教程规则：https://github.com/O7Y0/Attached
-* 节点：https://raw.githubusercontent.com/O7Y0/Attached/main/UnblockNeteaseMusic/UnblockNeteaseMusic.txt
+* 节点：
+´´´
+https://raw.githubusercontent.com/O7Y0/Attached/main/UnblockNeteaseMusic/UnblockNeteaseMusic.txt
+´´´
 ## 网易云音乐RE：https://github.com/I-am-R-E/QuantumultX
-* 节点：https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/AgentNode/NeteaseMusicUnlock.list
-## 分流：https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEaseMusic/NetEaseMusic.list
-
+* 节点：
+´´´
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/AgentNode/NeteaseMusicUnlock.list
+´´´
+## 分流：
+´´´
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEaseMusic/NetEaseMusic.list
+´´´
+## 策论组自行添加
 # iPhone (免拔卡)解锁TikTok +换区+发布视频+直播+点赞评论
 * TikTok 解锁：https://github.com/Semporia/TikTok-Unlock
 * TikTok解锁2：https://github.com/cyubuchen/TikTok_Unlock
@@ -113,5 +122,5 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 ![苹果](https://camo.githubusercontent.com/d162c8c3e3b4039f419db29ea2bb480b50187f1091b035961a44f5bd5e5a2de0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a51704f43676e47666237464376455672642f67697068792e676966)
 
-#前后图标
+#图标
 https://github.com/Johnserf-Seed
