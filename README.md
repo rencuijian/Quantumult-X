@@ -1,5 +1,4 @@
 
-![胜利](https://camo.githubusercontent.com/8e30c0ff57ba0ecf6f3ae80a950dd401c74b3caf37d2560de69cad99f50f438c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674774686b68557647674f6974375939692f67697068792e676966)
 # Quantumult X个人查找使用教程
 * 油管1080P下载：https://x2mate.com/zh-cn
 * 油管1080P下载：https://x2download.com/zh-cn52
