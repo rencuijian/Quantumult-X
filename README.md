@@ -121,6 +121,17 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 # 规则类型优先级
 在 Quantumult X 中并不是完全按顺序匹配，各类型的优先级应该为： host > host-suffix > host-keyword > user-agnet > geoip & ip-cidr。
 
+# 圈X app2smile去广告：https://github.com/app2smile/rules
+# 圈X自定义GoIP
+* 自定义路径1：https://github.com/Hackl0us/GeoIP2-CN
+# TG贴纸教程：https://www.jianshu.com/p/c58c713ee791?ivk_
+# 圈X规则：https://github.com/zwf234/rules
+# 墨鱼手记新地址：https://github.com/ddgksf2013
+# JS安装：https://github.com/chavyleung/boxjs-doc
+* JS脚本1：https://github.com/ChuheGit/1
+* JS脚本2：https://github.com/NobyDa/Script
+
+
 ![苹果](https://camo.githubusercontent.com/d162c8c3e3b4039f419db29ea2bb480b50187f1091b035961a44f5bd5e5a2de0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a51704f43676e47666237464376455672642f67697068792e676966)
 
 #图标
